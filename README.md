@@ -5,13 +5,13 @@ It provides a visual and interactive representation of key metrics from e-commer
 
 ## 🔧 Tools & Techniques Used
        
-         Microsoft Excel
-         Pivot Tables
-         Slicers / Filters
-         Bar Chart
-         Waterfall Chart
-         Pie Chart
-         Map Chart
+         * Microsoft Excel
+         * Pivot Tables
+         * Slicers / Filters
+         * Bar Chart
+         * Waterfall Chart
+         * Pie Chart
+         * Map Chart
 
 ## 📈 Dashboard Highlights      
 
