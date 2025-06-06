@@ -37,4 +37,6 @@ Map chart showing sales distribution by location.
 #### Creating compelling visuals with various chart types.
 #### Using Excel functions for data summarization and transformation.
 
+## 🟢 Completed – Ready for review
+
       
