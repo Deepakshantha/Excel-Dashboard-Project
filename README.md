@@ -4,7 +4,8 @@ This project is an E-Commerce Sales Analysis Dashboard created using Microsoft E
 It provides a visual and interactive representation of key metrics from e-commerce transaction data to help understand business performance at a glance.
 
 ## 🔧 Tools & Techniques Used
-       * Microsoft Excel
+       
+* Microsoft Excel
 * Pivot Tables
 * Slicers / Filters
 * Bar Chart
