@@ -15,17 +15,14 @@ It provides a visual and interactive representation of key metrics from e-commer
 
 ## 📈 Dashboard Highlights      
 
-   #### Sales Overview
-        Visualizes total revenue, number of orders, and customer count.
-
-####    Category-wise Sales
-        Displays bar charts for product category performance.
-
-####    Profit/Loss Breakdown
-        Waterfall chart showing contribution of different categories to net profit.
-
-####    Geographical Insights
-        Map chart showing sales distribution by location.
+#### Sales Overview
+Visualizes total revenue, number of orders, and customer count.
+#### Category-wise Sales
+Displays bar charts for product category performance.
+#### Profit/Loss Breakdown
+Waterfall chart showing contribution of different categories to net profit.
+#### Geographical Insights
+Map chart showing sales distribution by location.
 
 ## 📌 Purpose
 
